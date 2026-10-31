@@ -1,0 +1,2 @@
+model,test_samples,SHAP_samples,number_of_features,top_feature,top_feature_mean_abs_SHAP,analysis_type,interaction_analysis
+Susceptibility XGBoost,1004,500,242,S_04,1.6076884,TreeExplainer,Not performed in optimized Phase 5

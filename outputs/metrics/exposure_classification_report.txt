@@ -1,0 +1,13 @@
+Target: Exposure_Category
+
+              precision    recall  f1-score   support
+
+        High       1.00      0.99      0.99       201
+         Low       1.00      1.00      1.00       200
+      Medium       0.99      1.00      0.99       201
+   Very High       1.00      1.00      1.00       201
+    Very Low       1.00      1.00      1.00       201
+
+    accuracy                           1.00      1004
+   macro avg       1.00      1.00      1.00      1004
+weighted avg       1.00      1.00      1.00      1004

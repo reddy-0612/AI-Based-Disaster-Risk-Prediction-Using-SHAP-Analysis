@@ -1,0 +1,5 @@
+Target,Total Samples,Training Samples,Testing Samples,Number of Features,Number of Classes
+WRI_Category,5018,4014,1004,242,5
+Exposure_Category,5018,4014,1004,242,5
+Vulnerability_Category,5018,4014,1004,242,5
+Susceptibility_Category,5018,4014,1004,242,5

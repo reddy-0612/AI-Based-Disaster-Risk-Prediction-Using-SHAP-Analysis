@@ -1,0 +1,249 @@
+Feature,Data_Type,Missing_Values,Missing_Percentage,Unique_Values,Group
+WRI.Country,str,0,0.0,193,Metadata
+ISO3.Code,str,0,0.0,193,Metadata
+Year,int64,0,0.0,26,Metadata
+W,float64,0,0.0,1825,Aggregate WRI
+E,float64,0,0.0,881,Aggregate WRI
+V,float64,0,0.0,3016,Aggregate WRI
+S,float64,0,0.0,2819,Aggregate WRI
+C,float64,0,0.0,2181,Aggregate WRI
+A,float64,0,0.0,3424,Aggregate WRI
+S_01,float64,0,0.0,3023,Other
+S_02,float64,0,0.0,2882,Other
+S_03,float64,0,0.0,3096,Other
+S_04,float64,0,0.0,1058,Other
+S_05,float64,0,0.0,2759,Other
+C_01,float64,0,0.0,1013,Other
+C_02,float64,0,0.0,3173,Other
+C_03,float64,0,0.0,3217,Other
+A_01,float64,0,0.0,3152,Other
+A_02,float64,0,0.0,3178,Other
+A_03,float64,0,0.0,3211,Other
+EI_01,float64,0,0.0,1003,Exposure Indicator
+EI_02,float64,0,0.0,1140,Exposure Indicator
+EI_03,float64,0,0.0,1512,Exposure Indicator
+EI_04,float64,0,0.0,2038,Exposure Indicator
+EI_05,float64,0,0.0,111,Exposure Indicator
+EI_06,float64,0,0.0,847,Exposure Indicator
+EI_07,float64,0,0.0,1058,Exposure Indicator
+SI_01,float64,0,0.0,2636,Susceptibility Indicator
+SI_02,float64,0,0.0,2721,Susceptibility Indicator
+SI_03,float64,0,0.0,2339,Susceptibility Indicator
+SI_04,float64,0,0.0,2732,Susceptibility Indicator
+SI_05,float64,0,0.0,2723,Susceptibility Indicator
+SI_06,float64,0,0.0,2415,Susceptibility Indicator
+SI_07,float64,0,0.0,3115,Susceptibility Indicator
+SI_08,float64,0,0.0,2537,Susceptibility Indicator
+SI_09,float64,0,0.0,2468,Susceptibility Indicator
+SI_10,float64,0,0.0,262,Susceptibility Indicator
+SI_11,float64,0,0.0,203,Susceptibility Indicator
+SI_12,float64,0,0.0,2598,Susceptibility Indicator
+SI_13,float64,0,0.0,1413,Susceptibility Indicator
+SI_14,float64,0,0.0,443,Susceptibility Indicator
+CI_01,float64,0,0.0,2659,Coping Indicator
+CI_02,float64,0,0.0,853,Coping Indicator
+CI_03,float64,0,0.0,2473,Coping Indicator
+CI_04,float64,0,0.0,2682,Coping Indicator
+CI_05,float64,0,0.0,2787,Coping Indicator
+CI_06,float64,0,0.0,2889,Coping Indicator
+CI_07,float64,0,0.0,2629,Coping Indicator
+AI_01,float64,0,0.0,3261,Adaptive Capacity Indicator
+AI_02,float64,0,0.0,3017,Adaptive Capacity Indicator
+AI_03,float64,0,0.0,2718,Adaptive Capacity Indicator
+AI_04,float64,0,0.0,2898,Adaptive Capacity Indicator
+EI_01a_Norm,float64,0,0.0,157,Exposure Indicator
+EI_01a_Base,float64,0,0.0,3252,Exposure Indicator
+EI_01b_Norm,float64,0,0.0,147,Exposure Indicator
+EI_01b_Base,float64,0,0.0,2535,Exposure Indicator
+EI_01c_Norm,float64,0,0.0,129,Exposure Indicator
+EI_01c_Base,float64,0,0.0,2647,Exposure Indicator
+EI_01d_Norm,float64,0,0.0,260,Exposure Indicator
+EI_01d_Base,float64,0,0.0,2025,Exposure Indicator
+EI_01e_Norm,float64,0,0.0,77,Exposure Indicator
+EI_01e_Base,float64,0,0.0,1450,Exposure Indicator
+EI_01f_Norm,float64,0,0.0,85,Exposure Indicator
+EI_01f_Base,float64,0,0.0,851,Exposure Indicator
+EI_02a_Norm,float64,0,0.0,127,Exposure Indicator
+EI_02a_Base,float64,0,0.0,2401,Exposure Indicator
+EI_02b_Norm,float64,0,0.0,266,Exposure Indicator
+EI_02b_Base,float64,0,0.0,1353,Exposure Indicator
+EI_02c_Norm,float64,0,0.0,102,Exposure Indicator
+EI_02c_Base,float64,0,0.0,1651,Exposure Indicator
+EI_02d_Norm,float64,0,0.0,279,Exposure Indicator
+EI_02d_Base,float64,0,0.0,856,Exposure Indicator
+EI_02e_Norm,float64,0,0.0,87,Exposure Indicator
+EI_02e_Base,float64,0,0.0,1320,Exposure Indicator
+EI_02f_Norm,float64,0,0.0,245,Exposure Indicator
+EI_02f_Base,float64,0,0.0,589,Exposure Indicator
+EI_03a_Norm,float64,0,0.0,221,Exposure Indicator
+EI_03a_Base,float64,0,0.0,2252,Exposure Indicator
+EI_03b_Norm,float64,0,0.0,232,Exposure Indicator
+EI_03b_Base,float64,0,0.0,1737,Exposure Indicator
+EI_03c_Norm,float64,0,0.0,113,Exposure Indicator
+EI_03c_Base,float64,0,0.0,2164,Exposure Indicator
+EI_03d_Norm,float64,0,0.0,131,Exposure Indicator
+EI_03d_Base,float64,0,0.0,1612,Exposure Indicator
+EI_03e_Norm,float64,0,0.0,192,Exposure Indicator
+EI_03e_Base,float64,0,0.0,1842,Exposure Indicator
+EI_03f_Norm,float64,0,0.0,308,Exposure Indicator
+EI_03f_Base,float64,0,0.0,1215,Exposure Indicator
+EI_04a_Norm,float64,0,0.0,155,Exposure Indicator
+EI_04a_Base,float64,0,0.0,3235,Exposure Indicator
+EI_04b_Norm,float64,0,0.0,155,Exposure Indicator
+EI_04b_Base,float64,0,0.0,3208,Exposure Indicator
+EI_04c_Norm,float64,0,0.0,155,Exposure Indicator
+EI_04c_Base,float64,0,0.0,3235,Exposure Indicator
+EI_04d_Norm,float64,0,0.0,157,Exposure Indicator
+EI_04d_Base,float64,0,0.0,3207,Exposure Indicator
+EI_04e_Norm,float64,0,0.0,155,Exposure Indicator
+EI_04e_Base,float64,0,0.0,3232,Exposure Indicator
+EI_04f_Norm,float64,0,0.0,157,Exposure Indicator
+EI_04f_Base,float64,0,0.0,3170,Exposure Indicator
+EI_05a_Norm,float64,0,0.0,72,Exposure Indicator
+EI_05a_Base,float64,0,0.0,1482,Exposure Indicator
+EI_05b_Norm,float64,0,0.0,66,Exposure Indicator
+EI_05b_Base,float64,0,0.0,1084,Exposure Indicator
+EI_05c_Norm,float64,0,0.0,49,Exposure Indicator
+EI_05c_Base,float64,0,0.0,984,Exposure Indicator
+EI_05d_Norm,float64,0,0.0,40,Exposure Indicator
+EI_05d_Base,float64,0,0.0,565,Exposure Indicator
+EI_05e_Norm,float64,0,0.0,11,Exposure Indicator
+EI_05e_Base,float64,0,0.0,199,Exposure Indicator
+EI_05f_Norm,float64,0,0.0,11,Exposure Indicator
+EI_05f_Base,float64,0,0.0,165,Exposure Indicator
+EI_06a_Norm,float64,0,0.0,184,Exposure Indicator
+EI_06a_Base,float64,0,0.0,3841,Exposure Indicator
+EI_06b_Norm,float64,0,0.0,173,Exposure Indicator
+EI_06b_Base,float64,0,0.0,3518,Exposure Indicator
+EI_06c_Norm,float64,0,0.0,129,Exposure Indicator
+EI_06c_Base,float64,0,0.0,2684,Exposure Indicator
+EI_06d_Norm,float64,0,0.0,133,Exposure Indicator
+EI_06d_Base,float64,0,0.0,2572,Exposure Indicator
+EI_06e_Norm,float64,0,0.0,51,Exposure Indicator
+EI_06e_Base,float64,0,0.0,1016,Exposure Indicator
+EI_06f_Norm,float64,0,0.0,55,Exposure Indicator
+EI_06f_Base,float64,0,0.0,804,Exposure Indicator
+EI_07a_Norm,float64,0,0.0,144,Exposure Indicator
+EI_07a_Base,float64,0,0.0,3004,Exposure Indicator
+EI_07b_Norm,float64,0,0.0,145,Exposure Indicator
+EI_07b_Base,float64,0,0.0,2960,Exposure Indicator
+SI_01a_Norm,float64,0,0.0,293,Susceptibility Indicator
+SI_01a_Base,float64,0,0.0,2453,Susceptibility Indicator
+SI_01b_Norm,float64,0,0.0,665,Susceptibility Indicator
+SI_01b_Base,float64,0,0.0,933,Susceptibility Indicator
+SI_02a_Norm,float64,0,0.0,527,Susceptibility Indicator
+SI_02a_Base,float64,0,0.0,1198,Susceptibility Indicator
+SI_02b_Norm,float64,0,0.0,346,Susceptibility Indicator
+SI_02b_Base,float64,0,0.0,1297,Susceptibility Indicator
+SI_03a_Norm,float64,0,0.0,193,Susceptibility Indicator
+SI_03a_Base,float64,0,0.0,4607,Susceptibility Indicator
+SI_03b_Norm,float64,0,0.0,195,Susceptibility Indicator
+SI_03b_Base,float64,0,0.0,4504,Susceptibility Indicator
+SI_04a_Norm,float64,0,0.0,188,Susceptibility Indicator
+SI_04a_Base,float64,0,0.0,3206,Susceptibility Indicator
+SI_04b_Norm,float64,0,0.0,202,Susceptibility Indicator
+SI_04b_Base,float64,0,0.0,4393,Susceptibility Indicator
+SI_05a_Norm,float64,0,0.0,1045,Susceptibility Indicator
+SI_05a_Base,float64,0,0.0,2275,Susceptibility Indicator
+SI_05b_Norm,float64,0,0.0,771,Susceptibility Indicator
+SI_05b_Base,float64,0,0.0,2763,Susceptibility Indicator
+SI_06a_Norm,float64,0,0.0,1922,Susceptibility Indicator
+SI_06a_Base,float64,0,0.0,881,Susceptibility Indicator
+SI_06b_Norm,float64,0,0.0,1134,Susceptibility Indicator
+SI_06b_Base,float64,0,0.0,1906,Susceptibility Indicator
+SI_07a_Norm,float64,0,0.0,936,Susceptibility Indicator
+SI_07a_Base,float64,0,0.0,3038,Susceptibility Indicator
+SI_07b_Norm,float64,0,0.0,721,Susceptibility Indicator
+SI_07b_Base,float64,0,0.0,4451,Susceptibility Indicator
+SI_08a_Norm,float64,0,0.0,1893,Susceptibility Indicator
+SI_08a_Base,float64,0,0.0,933,Susceptibility Indicator
+SI_08b_Norm,float64,0,0.0,444,Susceptibility Indicator
+SI_08b_Base,float64,0,0.0,748,Susceptibility Indicator
+SI_09a_Norm,float64,0,0.0,300,Susceptibility Indicator
+SI_09a_Base,float64,0,0.0,1985,Susceptibility Indicator
+SI_09b_Norm,float64,0,0.0,403,Susceptibility Indicator
+SI_09b_Base,float64,0,0.0,3172,Susceptibility Indicator
+SI_10_Norm,float64,0,0.0,262,Susceptibility Indicator
+SI_10_Base,float64,0,0.0,3173,Susceptibility Indicator
+SI_10a_Norm,float64,0,0.0,256,Susceptibility Indicator
+SI_10a_Base,float64,0,0.0,3326,Susceptibility Indicator
+SI_10b_Norm,float64,0,0.0,312,Susceptibility Indicator
+SI_10b_Base,float64,0,0.0,2039,Susceptibility Indicator
+SI_11_Norm,float64,0,0.0,203,Susceptibility Indicator
+SI_11_Base,float64,0,0.0,4451,Susceptibility Indicator
+SI_12a_Norm,float64,0,0.0,2154,Susceptibility Indicator
+SI_12a_Base,int64,0,0.0,3475,Susceptibility Indicator
+SI_12b_Norm,float64,0,0.0,1440,Susceptibility Indicator
+SI_12b_Base,float64,0,0.0,484,Susceptibility Indicator
+SI_13a_Norm,float64,0,0.0,1600,Susceptibility Indicator
+SI_13a_Base,float64,0,0.0,1592,Susceptibility Indicator
+SI_13b_Norm,float64,0,0.0,666,Susceptibility Indicator
+SI_13b_Base,float64,0,0.0,234,Susceptibility Indicator
+SI_14a_Norm,float64,0,0.0,441,Susceptibility Indicator
+SI_14a_Base,float64,0,0.0,523,Susceptibility Indicator
+SI_14b_Norm,float64,0,0.0,272,Susceptibility Indicator
+SI_14b_Base,float64,0,0.0,196,Susceptibility Indicator
+SI_15a_Norm,float64,0,0.0,204,Susceptibility Indicator
+SI_15a_Base,float64,0,0.0,3931,Susceptibility Indicator
+SI_15b_Norm,float64,0,0.0,193,Susceptibility Indicator
+SI_15b_Base,float64,0,0.0,4242,Susceptibility Indicator
+SI_15c_Norm,float64,0,0.0,194,Susceptibility Indicator
+SI_15c_Base,float64,0,0.0,4232,Susceptibility Indicator
+SI_15d_Norm,float64,0,0.0,194,Susceptibility Indicator
+SI_15d_Base,float64,0,0.0,4217,Susceptibility Indicator
+CI_01a_Norm,float64,0,0.0,1913,Coping Indicator
+CI_01a_Base,float64,0,0.0,2827,Coping Indicator
+CI_01b_Norm,float64,0,0.0,1553,Coping Indicator
+CI_01b_Base,float64,0,0.0,1065,Coping Indicator
+CI_02a_Norm,float64,0,0.0,493,Coping Indicator
+CI_02a_Base,float64,0,0.0,705,Coping Indicator
+CI_02b_Norm,float64,0,0.0,495,Coping Indicator
+CI_02b_Base,float64,0,0.0,579,Coping Indicator
+CI_03a_Norm,float64,0,0.0,204,Coping Indicator
+CI_03a_Base,float64,0,0.0,4540,Coping Indicator
+CI_03b_Norm,float64,0,0.0,216,Coping Indicator
+CI_03b_Base,float64,0,0.0,4531,Coping Indicator
+CI_04a_Norm,float64,0,0.0,211,Coping Indicator
+CI_04a_Base,float64,0,0.0,4525,Coping Indicator
+CI_04b_Norm,float64,0,0.0,205,Coping Indicator
+CI_04b_Base,float64,0,0.0,4560,Coping Indicator
+CI_05a_Norm,float64,0,0.0,434,Coping Indicator
+CI_05a_Base,float64,0,0.0,3444,Coping Indicator
+CI_05b_Norm,float64,0,0.0,220,Coping Indicator
+CI_05b_Base,float64,0,0.0,3998,Coping Indicator
+CI_06a_Norm,float64,0,0.0,310,Coping Indicator
+CI_06a_Base,float64,0,0.0,2366,Coping Indicator
+CI_06b_Norm,float64,0,0.0,638,Coping Indicator
+CI_06b_Base,float64,0,0.0,3274,Coping Indicator
+CI_07a_Norm,float64,0,0.0,215,Coping Indicator
+CI_07a_Base,float64,0,0.0,3537,Coping Indicator
+CI_07b_Norm,float64,0,0.0,562,Coping Indicator
+CI_07b_Base,float64,0,0.0,1216,Coping Indicator
+AI_01a_Norm,float64,0,0.0,928,Adaptive Capacity Indicator
+AI_01a_Base,float64,0,0.0,2946,Adaptive Capacity Indicator
+AI_01b_Norm,float64,0,0.0,228,Adaptive Capacity Indicator
+AI_01b_Base,float64,0,0.0,3525,Adaptive Capacity Indicator
+AI_01c_Norm,float64,0,0.0,254,Adaptive Capacity Indicator
+AI_01c_Base,float64,0,0.0,3042,Adaptive Capacity Indicator
+AI_02a_Norm,float64,0,0.0,1085,Adaptive Capacity Indicator
+AI_02a_Base,float64,0,0.0,1340,Adaptive Capacity Indicator
+AI_02b_Norm,float64,0,0.0,920,Adaptive Capacity Indicator
+AI_02b_Base,float64,0,0.0,730,Adaptive Capacity Indicator
+AI_02c_Norm,float64,0,0.0,419,Adaptive Capacity Indicator
+AI_02c_Base,float64,0,0.0,3328,Adaptive Capacity Indicator
+AI_03a_Norm,float64,0,0.0,206,Adaptive Capacity Indicator
+AI_03a_Base,float64,0,0.0,3900,Adaptive Capacity Indicator
+AI_03b_Norm,float64,0,0.0,194,Adaptive Capacity Indicator
+AI_03b_Base,float64,0,0.0,4230,Adaptive Capacity Indicator
+AI_03c_Norm,float64,0,0.0,195,Adaptive Capacity Indicator
+AI_03c_Base,float64,0,0.0,4226,Adaptive Capacity Indicator
+AI_04a_Norm,float64,0,0.0,844,Adaptive Capacity Indicator
+AI_04a_Base,int64,0,0.0,82,Adaptive Capacity Indicator
+AI_04b_Norm,float64,0,0.0,872,Adaptive Capacity Indicator
+AI_04b_Base,int64,0,0.0,80,Adaptive Capacity Indicator
+AI_04c_Norm,float64,0,0.0,1158,Adaptive Capacity Indicator
+AI_04c_Base,int64,0,0.0,100,Adaptive Capacity Indicator
+AI_05a_Norm,float64,0,0.0,194,Adaptive Capacity Indicator
+AI_05a_Base,float64,0,0.0,4536,Adaptive Capacity Indicator
+AI_05b_Norm,float64,0,0.0,928,Adaptive Capacity Indicator
+AI_05b_Base,float64,0,0.0,568,Adaptive Capacity Indicator

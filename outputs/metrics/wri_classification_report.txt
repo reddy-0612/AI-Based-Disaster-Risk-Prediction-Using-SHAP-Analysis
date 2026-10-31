@@ -1,0 +1,13 @@
+Target: WRI_Category
+
+              precision    recall  f1-score   support
+
+        High       0.99      0.95      0.97       201
+         Low       0.93      0.96      0.95       200
+      Medium       0.95      0.96      0.96       201
+   Very High       0.99      1.00      0.99       201
+    Very Low       0.98      0.96      0.97       201
+
+    accuracy                           0.97      1004
+   macro avg       0.97      0.97      0.97      1004
+weighted avg       0.97      0.97      0.97      1004

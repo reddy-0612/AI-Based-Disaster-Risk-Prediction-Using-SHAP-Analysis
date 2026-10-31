@@ -1,0 +1,13 @@
+Target: Susceptibility_Category
+
+              precision    recall  f1-score   support
+
+        High       0.97      0.96      0.96       201
+         Low       0.94      0.94      0.94       200
+      Medium       0.96      0.97      0.96       201
+   Very High       0.97      0.99      0.98       201
+    Very Low       0.98      0.97      0.97       201
+
+    accuracy                           0.96      1004
+   macro avg       0.96      0.96      0.96      1004
+weighted avg       0.96      0.96      0.96      1004
